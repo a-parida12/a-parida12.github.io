@@ -843,6 +843,12 @@ input[type="button"].btn--primary:focus {
     margin-right: 0;
 }
 
+.btn.full-width, button.full-width-trans {
+    background: transparent !important;
+    border: 0.3rem solid #000000;
+    color: #000000;
+}
+
 .btn--medium, button.btn--medium {
     height: 5.7rem !important;
     line-height: calc(5.7rem - .6rem) !important;

@@ -523,6 +523,10 @@
 .im-android-os:before {
   content: '\e0a9';
 }
+.im-sourcerer:before {
+  content: '\f1d2';
+}
+
 .im-apple-os:before {
   content: '\e0aa';
 }
